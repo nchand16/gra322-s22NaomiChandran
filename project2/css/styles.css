@@ -2,9 +2,10 @@ html {
     --gray: #444;
     --gray-dark: #333;
     --gray-light: #f2f2f2;
-    
+
 }
 body{
+    font-family: 'Comfortaa', cursive;
     background: var(--gray);
 
 }
