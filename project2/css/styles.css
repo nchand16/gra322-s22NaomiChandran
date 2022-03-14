@@ -9,3 +9,6 @@ body{
     background: var(--gray);
 
 }
+h1{
+    font: weight 700px;
+}
