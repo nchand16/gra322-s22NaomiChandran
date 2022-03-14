@@ -1,3 +1,7 @@
 html {
     --gray: #444;
 }
+body{
+    background: var(--gray);
+    
+}
