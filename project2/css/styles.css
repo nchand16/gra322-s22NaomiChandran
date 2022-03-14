@@ -12,3 +12,8 @@ body{
 h1{
     font: weight 700px;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: [full-start] minmax(1rem, 1fr) [main-start] minmax(0, 1280px) [main-end] minmax(1rem, 1fr) [full-end];
+}
