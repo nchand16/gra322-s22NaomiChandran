@@ -13,19 +13,19 @@ h1{
     font: weight 1000px;
 }
 
-.panini-list {
+.hotdrinks {
     list-style: none;
   }
   
-  .panini-list table {
+  .hotdrinks table {
     width: 100%;
   }
   
-  .panini-list td {
+  .hotdrinks td {
     font-weight: bold;
   }
   
-  .panini-list p {
+  .hotdrinks p {
     font-style: italic;
   }
   
