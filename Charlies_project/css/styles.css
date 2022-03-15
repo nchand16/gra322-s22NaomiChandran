@@ -13,17 +13,3 @@ h1{
     font: weight 1000px;
 }
 
-.container {
-
-  position: center;
-  top: 4000000%;
-  text-align: left;
-  color: Black;
-}
-
-.top-left 
-{
-    position: center;
-    top: 10000%;
-    left: 16px;
-}
