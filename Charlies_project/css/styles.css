@@ -1,0 +1,22 @@
+html {
+    --beige: #F5F5DC;
+    --beige-dark: #CDA572;
+    --gray-light: #f2f2f2;
+
+}
+body{
+    font-family: 'Comfortaa', cursive;
+    background: var(--gray);
+
+}
+h1{
+    font: weight 700px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: [full-start] minmax(1rem, 1fr) [main-start] minmax(0, 1280px) [main-end] minmax(1rem, 1fr) [full-end];
+}
+.grid > * {
+    grid-column: main;
+}
