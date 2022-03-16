@@ -12,9 +12,7 @@ body{
 h1{
     font: weight 1000px;
 }
-.column {
-    position: center;
-}
+
 
 .hotdrinks {
     list-style: none;
@@ -30,6 +28,10 @@ h1{
   
   .hotdrinks p {
     font-style: italic;
+  }
+
+  .hotdrinks ul {
+position: center;
   }
   
   @media screen and (min-width: 800px) {
