@@ -12,6 +12,9 @@ body{
 h1{
     font: weight 1000px;
 }
+.column {
+    position: center;
+}
 
 .hotdrinks {
     list-style: none;
