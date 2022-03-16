@@ -42,7 +42,7 @@ h1{
     padding: 3rem;
   }
   .container {
-    background-image: url('../images_charlies/charlies_cafe_bckgnd1.png');
+    background-image: url('https:/gra322-s22NaomiChandran.netlify.app/Charlies_project/images_charlies/charlies_cafe_bckgnd1.png');
     background-size: cover;
     display: flex;
     align-items: center;
