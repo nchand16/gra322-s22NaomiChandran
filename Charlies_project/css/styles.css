@@ -37,4 +37,42 @@ h1{
       position: center;
     }
   }
+  body {
+    padding: 3rem;
+  }
+  header {
+    background-color: #f2f2f2;
+    height: 80vh;
+    padding: 6rem 10rem;
+    position: relative;
+  }
+  
+  .title-wrapper {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 2rem 0;
+    position: relative;
+    z-index: 1;
+  }
+  
+  button {
+    position: absolute;
+    bottom: -1rem;
+    right: -2rem;
+  }
+  
+  @media screen and (min-width: 800px) {
+    header {
+      display: flex;
+      align-items: center;
+      margin-right: 5rem;
+    }
+  
+    .header-image {
+      position: absolute;
+      right: -2rem;
+      top: 0;
+      z-index: 0;
+    }
+  }
   
