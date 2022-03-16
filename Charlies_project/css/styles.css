@@ -41,5 +41,12 @@ h1{
   body {
     padding: 3rem;
   }
-
+  .container {
+    background-image: url('https://picsum.photos/800/800');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+  }
   
