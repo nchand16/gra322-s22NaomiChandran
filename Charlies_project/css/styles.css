@@ -60,13 +60,7 @@ h1{
     bottom: -1rem;
     right: -2rem;
   }
-  
-  @media screen and (min-width: 800px) {
-    header {
-      display: flex;
-      align-items: center;
-      margin-right: 5rem;
-    }
+
   
     .header-image {
       position: absolute;
