@@ -49,4 +49,14 @@ h1{
     justify-content: center;
     height: 80vh;
   }
+  * { box-sizing: border-box; }
+body { font-family: arial; line-height: 1.25em; }
+h1 { font-size: 24px; padding: 1em; }
+header { background: #ccc; padding: 12px; top: 0; width: 100%; }
+p { margin-bottom: 1em; }
+
+.header-toggle{
+  position: fixed;
+  box-shadow: 3px 3px 3px #999;
+}
   
