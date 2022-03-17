@@ -21,6 +21,7 @@ h2{
 
 .hotdrinks {
     list-style: none;
+    align-items: center;
   }
   
   .hotdrinks table {
