@@ -51,3 +51,8 @@ h2{
     align-items: center;
     justify-content: center;
     height: 80vh;
+  }
+  .Menu {
+    background-image:url ('https://gra322-s22naomichandran.netlify.app/Charlies_project/images_charlies/paper1.png') ;
+
+}
