@@ -38,7 +38,8 @@ h2{
     .menus {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      position: center;
+      align-items: center;
+      justify-content: center;
     }
   }
   body {
