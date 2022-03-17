@@ -10,6 +10,9 @@ body{
     background: var(--beige);
 
 }
+h1{
+  font: weight 2000px;
+}
 h2{
     font: weight 1000px;
 }
