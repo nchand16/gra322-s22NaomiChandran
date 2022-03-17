@@ -31,10 +31,12 @@ h2{
   
   .hotdrinks td {
     font-weight: bold;
+    align-items: center;
   }
   
   .hotdrinks p {
-    font-style: italic;
+    font-style:align-items: center; italic;
+
   }
   
   @media screen and (min-width: 600px) {
