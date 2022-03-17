@@ -36,7 +36,7 @@ h2{
   
   @media screen and (min-width: 800px) {
     .menus {
-      display: table-column;
+      display: grid;
       grid-template-columns: 1fr 1fr;
       position: center;
     }
