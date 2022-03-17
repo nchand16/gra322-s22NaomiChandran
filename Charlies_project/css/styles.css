@@ -26,6 +26,7 @@ h2{
   
   .hotdrinks table {
     width: 100%;
+    align-items: center;
   }
   
   .hotdrinks td {
