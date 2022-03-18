@@ -27,7 +27,7 @@ header {
   display: flex;
   height: 80vh;
   justify-content: flex-start;
-  padding: 3rem;
+  padding: 1rem;
 
   position: relative;
 }
@@ -35,7 +35,7 @@ header {
 
 .text-container {
   position: relative;
-  z-index: 1.5;
+  z-index: 1;
 }
 
 
