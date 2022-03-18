@@ -58,5 +58,8 @@ img {
 }
 
 .paragraph-text {
-  padding: 1rem;
+  color: black;
+  text-align: left;
+  font-size: 25px;
+
 }
