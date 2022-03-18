@@ -21,12 +21,12 @@ h2{
 
 
 header {
-  align-items: flex-end;
+  align-items: flex-start;
   background-image: url("https://gra322-s22naomichandran.netlify.app/Charlies_project/images_charlies/charlies_cafe_bckgnd1.png");
   background-size: cover;
   display: flex;
   height: 80vh;
-  justify-content: flex-end;
+  justify-content: flex-start;
   padding: 3rem;
 
   position: relative;
