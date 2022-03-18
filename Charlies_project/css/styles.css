@@ -48,8 +48,8 @@ h1 {
 }
 p {
   color: black;
-  position: center;
-  font-size: 10px;
+  text-align: left;
+  font-size: 60px;
 
 }
 img {
