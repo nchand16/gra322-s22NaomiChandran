@@ -42,10 +42,15 @@ header {
 {
   box-sizing: border-box;
 }
-h1,
-p {
+h1 {
   color: black;
   font-size: 44px;
+}
+p {
+  color: black;
+  font-size: 20px;
+  position: center;
+
 }
 img {
   float: left;
