@@ -20,44 +20,47 @@ h2{
 }
 
 
-.hotdrinks {
-    list-style: none;
-    align-items: center;
-  }
-  
-  .hotdrinks table {
-    width: 100%;
-    align-items: center;
-  }
-  
-  .hotdrinks td {
-    font-weight: bold;
-    align-items: center;
-  }
-  
-  .hotdrinks p {
-    font-style: italic;
-    align-items: center;
+header {
+  align-items: flex-end;
+  background-image: url("https://picsum.photos/1800/1200");
+  background-size: cover;
+  display: flex;
+  height: 80vh;
+  justify-content: flex-end;
+  padding: 3rem;
 
-  }
-  
-  @media screen and (min-width: 600px) {
-    .menus {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      position: center;
-      text-align: center;
-    }
-  }
-  body {
-    padding: 3rem;
-  }
-  .container {
-    background-image: url('https://gra322-s22naomichandran.netlify.app/Charlies_project/images_charlies/charlies_cafe_bckgnd1.png');
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 80vh;
-  }
+  position: relative;
+}
+
+
+header:after {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0),
+    70%,
+    rgba(0, 0, 0, 0.75)
+  );
+  content: " ";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 0;
+}
+
+
+.text-container {
+  position: relative;
+  z-index: 1;
+}
+
+
+{
+  box-sizing: border-box;
+}
+h1,
+p {
+  color: #fff;
+  font-size: 64px;
 }
