@@ -47,3 +47,7 @@ p {
   color: black;
   font-size: 64px;
 }
+img {
+  float: right;
+  max-width: 100%;
+}
