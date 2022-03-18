@@ -26,6 +26,7 @@ header {
   background-size: cover;
   display: flex;
   height: 80vh;
+  width: 200vh;
   justify-content: flex-start;
   padding: 1rem;
 
