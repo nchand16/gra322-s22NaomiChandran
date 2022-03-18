@@ -33,23 +33,6 @@ header {
 }
 
 
-header:after {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 0, 0, 0),
-    70%,
-    rgba(0, 0, 0, 0.75)
-  );
-  content: " ";
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  z-index: 0;
-}
-
-
 .text-container {
   position: relative;
   z-index: 1;
