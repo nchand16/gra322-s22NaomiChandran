@@ -18,3 +18,8 @@ h2{
     font: weight 1000px;
     position: center;
 }
+.text-title {
+  position: static;
+  border: 3px solid #73AD21;
+}
+}
